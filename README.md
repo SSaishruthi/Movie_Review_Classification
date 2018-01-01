@@ -1,9 +1,11 @@
 # Moview_Review_Classification
 
 Problem Statement
+
 Infer sentiment from free form review text submitted for different movies.
 
 Solution
+
 K-nearest Neighbor Classifier is implemented to predict sentiment for 25000 movie reviews. If it is a positive review, it is represented by ‘+1’ and if it is a negative review, it is represented by ‘-1’
 
 Methodology
